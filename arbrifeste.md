@@ -1,5 +1,5 @@
 # Arbrifeste
-Un arbrifeste, une espèce de manifeste pour nous aligner sur les valeurs, sur les principes et sur les pratiques
+Un arbrifeste, une espèce de manifeste pour nous aligner sur les valeurs, sur les principes et sur les pratiques.
 
 ## Transparence
 On souhaite être le plus réglo possible envers les utilisateurs du service. On n’affiche clairement nos intentions et notre fonctionnement. 
