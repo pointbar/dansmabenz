@@ -4,9 +4,9 @@
 Réaliser une application Open Source pour faciliter le covoiturage.
 
 ## Fondateurs
-Yannick Belat - yannick.belat@gmail.com
-Tristan Le Granché - tristan.legranche@gmail.com
-Stéphane Langlois - stephane@scopyleft.fr
+Yannick Belat - yannick.belat@gmail.com  
+Tristan Le Granché - tristan.legranche@gmail.com  
+Stéphane Langlois - stephane@scopyleft.fr  
 
 ## Outils
 dansmabenz.slack.com
