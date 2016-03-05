@@ -27,6 +27,8 @@ http://rue89.nouvelobs.com/2015/03/09/blablacar-fait-plus-mal-semi-marathon-2581
 https://comptoir.org/2015/05/08/blablacar-comment-ils-nous-ont-vole-le-covoiturage/
 
 ### Autres Solutions
+- Covoiturage Grand Lyon
+http://www.covoiturage-grandlyon.com/
 - Groupe facebook type
 https://www.facebook.com/groups/307202015960076/?fref=ts
 - Covoiturage libre
