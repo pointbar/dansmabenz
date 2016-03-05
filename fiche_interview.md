@@ -2,9 +2,9 @@
 
 - Date :  
 - Information contact : 
-  - name :  
+  - Nom :  
   - Email :  
-  - Data :  
+  - Datas :  
     - Depuis combien de temps tu fais du covoiturage :
     - Combien de fois en chauffeur : 
     - Combien de fois en passager : 
