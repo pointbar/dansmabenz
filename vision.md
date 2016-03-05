@@ -38,3 +38,8 @@ https://comptoir.org/2015/05/08/blablacar-comment-ils-nous-ont-vole-le-covoitura
 - Difficile de trouver une solution de dernière minute
 - Perdu les valeurs collaboratives
 - Système de paiement lourd
+
+### Alternative
+- Groupe facebook
+- Prendre le contact
+- Prendre le train, stop, ouibus
