@@ -10,6 +10,7 @@ Stéphane Langlois - stephane@scopyleft.fr
 
 ## Outils
 dansmabenz.slack.com
+dansmabenz.xyz
 
 ## Noms
 - Dans ma Benz
@@ -22,7 +23,7 @@ dansmabenz.slack.com
 http://rue89.nouvelobs.com/2013/07/27/aujourdhui-covoiturage-regarde-montre-a-chaque-pause-pipi-243756
 - BlaBlaCar m’a fait plus mal que le semi-marathon
 http://rue89.nouvelobs.com/2015/03/09/blablacar-fait-plus-mal-semi-marathon-258103
-- Comment ils nous ont volé le covoiturage.
+- Comment ils nous ont volé le covoiturage. 
 https://comptoir.org/2015/05/08/blablacar-comment-ils-nous-ont-vole-le-covoiturage/
 
 ### Autres alternatives
@@ -45,7 +46,6 @@ http://www.ouibus.com/
 - Ouigo
 http://www.ouigo.com/
 
-
 ## Canvas
 ### Premiers utilisateurs
 - Groupe Facebook Lyon
@@ -57,7 +57,7 @@ http://www.ouigo.com/
 - Perdu les valeurs collaboratives
 - Système de paiement lourd
 
-### Alternative
+### Alternatives
 - Groupe facebook
 - Prendre le contact
 - Prendre le train, stop, ouibus
