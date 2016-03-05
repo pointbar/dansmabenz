@@ -25,7 +25,25 @@ http://rue89.nouvelobs.com/2015/03/09/blablacar-fait-plus-mal-semi-marathon-2581
 - Comment ils nous ont volé le covoiturage.
 https://comptoir.org/2015/05/08/blablacar-comment-ils-nous-ont-vole-le-covoiturage/
 
-### Autres solutions
+### Autres alternatives
+- Groupe facebook type
+https://www.facebook.com/groups/307202015960076/?fref=ts
+- Covoiturage libre
+http://www.covoiturage-libre.fr/
+- Leboncoin covoiturage
+http://www.leboncoin.fr/covoiturage/
+- Poolcar
+http://www.poolcar.fr/
+- Tribu covoiturage
+http://www.tribu-covoiturage.com/
+- Free covoiturage
+http://www.freecovoiturage.fr/
+- Troc des trains
+http://www.trocdestrains.com/
+- Bus type
+http://www.ouibus.com/
+- Ouigo
+http://www.ouigo.com/
 
 
 ## Canvas
