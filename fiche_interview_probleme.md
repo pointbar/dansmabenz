@@ -19,8 +19,8 @@
 
   - Probleme 1 : Perte des valeurs collaboratives 
     - **Classement - Texte**
-
-  - Probleme 2 : Pas adapté aux solutions de dernières minutes 
+    
+  - Problème 2 : Pas envie de tomber sur quelqu'un qui abuse ou pas honnête.
     - **Classement - Texte**
 
   - Probleme 3 : Que le chauffeur se fasse de l'argent, et blablacar soit spéculatif c'est un problème. 
