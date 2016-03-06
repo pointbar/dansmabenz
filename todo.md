@@ -2,4 +2,4 @@
 * Itw Facebook Lyon - (Yannick)
 * Itw Etudiants covoit Mtp (Tristan)
 * Itw covoit-libre (Yannick)
-* 
+* Rdv 14/03 - 20h skype (fixer une date pour les solutions) 
