@@ -50,9 +50,9 @@ http://www.ouigo.com/
 
 ## Canvas
 ### Premiers utilisateurs
-- Groupe Facebook Lyon
-- Pote de Yannick
-- Covoitureur Lyon/Montpellier
+- Itw Facebook Lyon - (Yannick)
+- Itw Etudiants covoit Mtp (Tristan)
+- Itw covoit-libre (Yannick)
 
 ### Problèmes
 - Difficile de trouver une solution de dernière minute

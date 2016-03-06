@@ -1,30 +1,40 @@
-# PROBLEME INTERVIEW
+# ITW - Problème - Prénom
 
-- Date :  
-- Information contact : 
-  - Nom :  
-  - Email :  
-  - Data :  
-    - Depuis combien de temps tu fais du covoiturage :
-    - Combien de fois en chauffeur : 
-    - Combien de fois en passager : 
-    - Combien dépensé ou gagné : 
-    - Combien de mauvaise expérience :  
-    - Appli Web ou mobile :  
-    - Est-ce que tu as déjà utilisé blabla à plusieurs :  
+- Date : jour mois année
+- Data :  
+    - Depuis combien de temps tu fais du covoiturage 
+        - **Texte**
+    - Combien de fois en chauffeur 
+        - **Texte**
+    - Combien de fois en passager 
+        - **Texte**
+    - Combien dépensé ou gagné 
+        - **Texte**
+    - Combien de mauvaise expérience 
+        - **Texte**
+    - Appli Web ou mobile   
+        - **Texte**
+    - Est-ce que tu as déjà utilisé blabla à plusieurs   
+        - **Texte**
 
-  - Probleme 1 : Perte des valeurs collaboratives :
+  - Probleme 1 : Pas adapté pour les trajets de dernières minutes.
+    - **Classement - Texte**
+    
+  - Problème 2 : Pas envie de tomber sur quelqu'un qui abuse ou pas honnête.
+    - **Classement - Texte**
 
-  - Probleme 2 : Pas adapté aux solutions de dernières minutes :
+  - Probleme 3 : Pas envies que le chauffeur se fasse de l'argent, et blablacar soit spéculatif. 
+    - **Classement - Texte**
 
-  - Probleme 3 : Système de paiement arbitraire et pas explicite :
+  - Alternatives 
+      - **Texte**
 
-  - Alternatives : 
-
-  - Notes :  
-
-  - 
-  - 
-  -
-  -
-  - Contacts :
+  - Notes 
+    - **Texte**
+    - **Texte**
+    - **Texte**
+    - **Texte**
+    - **Texte**
+    
+  - Contacts
+    - **Texte**
