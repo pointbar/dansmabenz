@@ -17,13 +17,13 @@
     - Est-ce que tu as déjà utilisé blabla à plusieurs   
         - **Texte**
 
-  - Probleme 1 : Plus ça va, plus ça ressemble à Uber, du VTC ou du taxi. Ça devient impersonnel, moins sympa.
+  - Probleme 1 : Pas adapté pour les trajets de dernières minutes.
     - **Classement - Texte**
     
   - Problème 2 : Pas envie de tomber sur quelqu'un qui abuse ou pas honnête.
     - **Classement - Texte**
 
-  - Probleme 3 : Que le chauffeur se fasse de l'argent, et blablacar soit spéculatif c'est un problème. 
+  - Probleme 3 : Pas envies que le chauffeur se fasse de l'argent, et blablacar soit spéculatif. 
     - **Classement - Texte**
 
   - Alternatives 
