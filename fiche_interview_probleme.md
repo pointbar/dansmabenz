@@ -17,7 +17,7 @@
     - Est-ce que tu as déjà utilisé blabla à plusieurs   
         - **Texte**
 
-  - Probleme 1 : Plus ça va ressemble à Uber, du VTC ou du taxi.
+  - Probleme 1 : Plus ça va, plus ça ressemble à Uber, du VTC ou du taxi.
     - **Classement - Texte**
     
   - Problème 2 : Pas envie de tomber sur quelqu'un qui abuse ou pas honnête.
