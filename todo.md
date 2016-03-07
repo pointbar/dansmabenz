@@ -1,5 +1,5 @@
-* Refaire le guide des interviews avec les nouveaux problèmes. (Tristan)
 * Itw Facebook Lyon - (Yannick)
 * Itw Etudiants covoit Mtp (Tristan)
 * Itw covoit-libre (Yannick)
-* 
+* Rédiger le journal de bord du séjour à Lyon (Stéphane) 
+* Commencer à documenter le projet (Stéphane)
