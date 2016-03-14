@@ -40,6 +40,7 @@
       - Les commissions sont vraiment élevées pour le service rendu
       - Je regrette que l'on ne puisse pas avoir le choix de donner ou non ses infos de contact. Leur système de messages est vraiment mal foutu pour s'y retrouver quand il y a beaucoup de questions (et c'est fréquent).
       - Quand on vois le prix d'un voyage, on ne sait pas directement combien ça va nous coûter au final. C'est une fois qu'on le réserve seulement qu'on voit le prix. Ca ralentit le choix à mort, et ça ne fait pas honnête.
+      - Une fois on m'avait assuré qu'il n'y avait que trois passagers, mais on se retrouve à quatre avec trop de bagages
       
   - Contacts 
     - Lui envoyer un mail pour qu'il donne ses contacts
